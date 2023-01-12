@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "target": "es5",
+        "module": "commonjs",
+        "jsx": "preserve",
+        "strict": true,
+        "esModuleInterop": true,
+        "lib": ["es5", "es6", "dom"],
+        "strictPropertyInitialization": false,
+    },
+    "exclude": ["node_modules"]
+}
